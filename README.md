@@ -77,4 +77,3 @@ python stock_analysis.py
 - **Predictions:** Simulated future stock prices using Monte Carlo methods.
 ```
 
-This markdown file includes the necessary structure to describe the project and the required steps for usage. Let me know if you need further adjustments!
