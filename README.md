@@ -45,17 +45,17 @@ def monte_carlo_simulation(start_price, days, mu, sigma):
 ```
 
 
-```
+
 
 ## Key Functions
-- **Data Collection:** Fetches stock data from the IEX API.
-- **Moving Averages:** Computes and visualizes moving averages for trend analysis.
-- **Risk Analysis:** Calculates daily returns and risk metrics such as standard deviation and Value at Risk (VaR).
-- **Monte Carlo Simulation:** Predicts future stock prices using random simulations.
+- Data Collection: Fetches stock data from the IEX API.
+- Moving Averages: Computes and visualizes moving averages for trend analysis.
+- Risk Analysis: Calculates daily returns and risk metrics such as standard deviation and Value at Risk (VaR).
+- Monte Carlo Simulation: Predicts future stock prices using random simulations.
 
 ## Results
-- **Visualizations:** Plots for stock prices, volume, moving averages, and daily returns.
-- **Risk Metrics:** Value at Risk (VaR) for different stocks.
-- **Predictions:** Simulated future stock prices using Monte Carlo methods.
-```
+- Visualizations: Plots for stock prices, volume, moving averages, and daily returns.
+- Risk Metrics: Value at Risk (VaR) for different stocks.
+- Predictions: Simulated future stock prices using Monte Carlo methods.
+
 
