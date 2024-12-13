@@ -44,25 +44,7 @@ def monte_carlo_simulation(start_price, days, mu, sigma):
     # Returns simulated stock price over time
 ```
 
-## How to Use
 
-### Clone the Repository
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/yourusername/stock-market-analysis.git
-cd stock-market-analysis
-```
-
-### Install Dependencies
-Install the required Python libraries:
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Script
-Run the Python script to fetch data, analyze it, and generate visualizations:
-```bash
-python stock_analysis.py
 ```
 
 ## Key Functions
